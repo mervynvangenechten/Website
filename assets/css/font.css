@@ -1,0 +1,62 @@
+@font-face {
+    font-family: "Anderson Grotesk";
+    src: url(../font/AndersonGrotesk.otf);
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Anderson Grotesk";
+    src: url(../font/AndersonGrotesk-Oblique.otf);
+    font-weight: 400;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: "Anderson Grotesk";
+    src: url(../font/AndersonGrotesk-Bold.otf);
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Anderson Grotesk";
+    src: url(../font/AndersonGrotesk-BoldOblique.otf);
+    font-weight: 700;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: "Anderson Grotesk";
+    src: url(../font/AndersonGrotesk-Light.otf);
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Anderson Grotesk";
+    src: url(../font/AndersonGrotesk-LightOblique.otf);
+    font-weight: 200;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: "Anderson Grotesk";
+    src: url(../font/AndersonGrotesk-Ultrabold.otf);
+    font-weight: 800;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Anderson Grotesk";
+    src: url(../font/AndersonGrotesk-UltraboldOblique.otf);
+    font-weight: 800;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: "Anderson Grotesk";
+    src: url(../font/AndersonGrotesk-Black.otf);
+    font-weight: 900;
+    font-style: normal;
+}
